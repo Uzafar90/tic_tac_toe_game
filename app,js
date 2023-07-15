@@ -43,7 +43,7 @@ const handleCellClick = (e) => {
 
 	currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
 	if (currentPlayer === 'O') {
-		setTimeout(computerMove, 600);
+		setTimeout(computerMove, 700);
 	}
 };
 
