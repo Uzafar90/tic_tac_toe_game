@@ -5,7 +5,7 @@
 <img align="center" src="https://github.com/Uzafar90/tic_tac_toe_game/blob/main/demo.png"/>
 <br/>
 
-### Live Demo on Codepen.io:  https://codepen.io/utbaz/pen/WNKQroZ
+### Live Demo on Codepen.io:  https://codepen.io/utbaz/pen/BaGYXpM
 
 ### My Codepen profile:  https://codepen.io/utbaz
 
